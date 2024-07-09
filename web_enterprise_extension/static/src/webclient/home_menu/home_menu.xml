@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<templates xml:space="preserve">
+
+<t t-name="web_enterprise_extension.HomeMenu" t-inherit="web_enterprise.HomeMenu" t-inherit-mode="extension">
+    <ExpirationPanel  position="replace"/>
+</t>
+</templates>
